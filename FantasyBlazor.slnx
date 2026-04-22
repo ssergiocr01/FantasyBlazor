@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FantasyBlazor/FantasyBlazor.Client/FantasyBlazor.Client.csproj" />
+  <Project Path="FantasyBlazor/FantasyBlazor/FantasyBlazor.csproj" />
+</Solution>
